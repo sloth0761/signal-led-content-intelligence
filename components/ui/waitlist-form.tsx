@@ -26,7 +26,7 @@ export function WaitlistForm({ source }: { source: string }) {
 
       const data = await response.json();
 
-      // Email already on waitlist — treat as success
+      // Email already on waitlist - treat as success
       if (response.status === 409) {
         setSuccess(true);
         setEmail("");

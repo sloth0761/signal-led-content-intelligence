@@ -19,12 +19,12 @@ export function ScoreSection() {
           viewport={{ once: true, margin: "-80px" }}
           transition={{ duration: 1, ease: [0.16, 1, 0.3, 1] }}
         >
-          <p className="eyebrow mb-8">Signal Index — Sample Audit</p>
+          <p className="eyebrow mb-8">Signal Index - Sample Audit</p>
           <h2 className="display-lg text-[clamp(2rem,5vw,4rem)]">
             See what your content <em className="font-light">misses</em>.
           </h2>
           <p className="mt-8 max-w-md text-lg leading-relaxed text-muted-foreground">
-            Every early access founder gets a baseline Signal Index — the four
+            Every early access founder gets a baseline Signal Index - the four
             numbers that explain why content isn&rsquo;t converting, and where to
             point it next.
           </p>

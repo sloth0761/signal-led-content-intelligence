@@ -9,10 +9,10 @@ import { Waitlist } from "@/components/landing/waitlist";
 import { Footer } from "@/components/landing/footer";
 
 export const metadata = {
-  title: "The Arth — Signal-Led Content Intelligence for Founders",
+  title: "The Arth - Signal-Led Content Intelligence for Founders",
   description: "The Arth turns founder content into pipeline. Detect ICP signals, map engagement to revenue, and create content the right buyers can't ignore.",
   openGraph: {
-    title: "The Arth — Signal-Led Content Intelligence",
+    title: "The Arth - Signal-Led Content Intelligence",
     description: "Stop guessing what to post. Start creating from buyer signals. Early access to founder positioning intelligence.",
     type: "website",
   },

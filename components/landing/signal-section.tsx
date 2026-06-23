@@ -6,7 +6,7 @@ const items = [
   {
     n: "01",
     t: "Detect",
-    d: "We continuously scan how your ICP talks about their problem — the words they use, the questions they repeat, the silences in between.",
+    d: "We continuously scan how your ICP talks about their problem - the words they use, the questions they repeat, the silences in between.",
   },
   {
     n: "02",
@@ -16,7 +16,7 @@ const items = [
   {
     n: "03",
     t: "Direct",
-    d: "Each signal becomes a content brief written for one buyer in mind. No more posting into the void — every piece has a job.",
+    d: "Each signal becomes a content brief written for one buyer in mind. No more posting into the void - every piece has a job.",
   },
 ];
 

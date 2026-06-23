@@ -33,7 +33,7 @@ export function Hero() {
 
         <p className="mx-auto mt-10 max-w-xl text-base leading-relaxed text-muted-foreground md:text-lg">
           The Arth listens for the buyer signals already hiding in your market
-          — and turns them into content only your future customers could have
+          - and turns them into content only your future customers could have
           written.
         </p>
 

@@ -19,7 +19,7 @@ export function Waitlist() {
           transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
           className="eyebrow mb-8"
         >
-          Founding Cohort — Limited
+          Founding Cohort - Limited
         </motion.p>
 
         <motion.h2
@@ -40,7 +40,7 @@ export function Waitlist() {
           className="mx-auto mt-10 max-w-lg text-lg leading-relaxed text-muted-foreground"
         >
           We&rsquo;re onboarding 30 founders into the first Signal Index cohort.
-          Drop your email — we&rsquo;ll send your baseline audit within a week.
+          Drop your email - we&rsquo;ll send your baseline audit within a week.
         </motion.p>
 
         <motion.div

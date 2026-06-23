@@ -5,7 +5,7 @@ export function Footer() {
         <span className="text-foreground font-medium uppercase tracking-[0.22em]">
           The Arth
         </span>
-        <span>© 2026 — Signal-Led Content</span>
+        <span>© 2026 - Signal-Led Content</span>
       </div>
     </footer>
   );

@@ -34,8 +34,8 @@ export function NoiseSection() {
           className="mt-10 max-w-2xl text-lg leading-relaxed text-muted-foreground"
         >
           The feeds are saturated with frameworks, hot takes, and carousel
-          decks. The signal — what a real buyer is actually trying to solve
-          this quarter — is buried under it. So founders publish more,
+          decks. The signal - what a real buyer is actually trying to solve
+          this quarter - is buried under it. So founders publish more,
           optimize for the algorithm, and wonder why pipeline doesn&rsquo;t move.
         </motion.p>
       </div>
